@@ -1,0 +1,14 @@
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\bin\Debug\netcoreapp3.1\caixaEletronico.exe
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\bin\Debug\netcoreapp3.1\caixaEletronico.deps.json
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\bin\Debug\netcoreapp3.1\caixaEletronico.runtimeconfig.json
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\bin\Debug\netcoreapp3.1\caixaEletronico.runtimeconfig.dev.json
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\bin\Debug\netcoreapp3.1\caixaEletronico.dll
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\bin\Debug\netcoreapp3.1\caixaEletronico.pdb
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\obj\Debug\netcoreapp3.1\caixaEletronico.csproj.AssemblyReference.cache
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\obj\Debug\netcoreapp3.1\caixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\obj\Debug\netcoreapp3.1\caixaEletronico.AssemblyInfoInputs.cache
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\obj\Debug\netcoreapp3.1\caixaEletronico.AssemblyInfo.cs
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\obj\Debug\netcoreapp3.1\caixaEletronico.csproj.CoreCompileInputs.cache
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\obj\Debug\netcoreapp3.1\caixaEletronico.dll
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\obj\Debug\netcoreapp3.1\caixaEletronico.pdb
+C:\Gama\ws-vs2019\desafios\caixaEletronico\caixaEletronico\obj\Debug\netcoreapp3.1\caixaEletronico.genruntimeconfig.cache
